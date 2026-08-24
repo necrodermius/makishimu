@@ -1,14 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maksym
 =============================================================================================================================
 
-Python Developer / DevOps
+Software engineer
 --------------------
 
-I am a student from Kyiv who wants to become a software engineer 
-
-* 🌍  I'm based in Kyiv  
-* 🎓  Studying at Taras Shevchenko National University of Kyiv  
-* ✉️  Email [maksym.putin@knu.ua](mailto:maksym.putin@knu.ua)  
+* 🌍  I'm based in Calgary
+* ✉️  Email [necrodermius@gmail.com](mailto:necrodermius@gmail.com)  
 * 💬  Telegram: [@necrodermius](https://t.me/necrodermius)  
 
 <a href="https://www.github.com/necrodermius" target="_blank" rel="noreferrer"><img
@@ -25,17 +22,3 @@ src="https://img.shields.io/github/followers/necrodermius?logo=github&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/necrodermius" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%BF%D1%83%D1%82%D1%96%D0%BD-88a7372b5/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### My GitHub Stats
-
-<div style="display: flex; gap: 10px; justify-content: center;">
-
-<a href="http://www.github.com/necrodermius">
-  <img src="https://github-readme-stats.vercel.app/api?username=necrodermius&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="Shtomuch's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/necrodermius">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=necrodermius&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-</div>
